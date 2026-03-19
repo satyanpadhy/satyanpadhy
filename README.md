@@ -17,26 +17,6 @@ I like building things that sit at the intersection of:
 
 ---
 
-## 🚧 Selected Work / Experiments
-
-### 🔹 Codebase Analysis & Visualization Tool
-Built a Python tool to analyze large codebases and map function dependencies (cross-file + recursive).
-
-- Generates static + interactive visualizations  
-- Designed with caching + parallel processing  
-- Built quickly to explore AI-assisted development workflows  
-
----
-
-### 🔹 Voice → Structured Billing (Odia)
-Explored converting voice input in Odia into structured billing entries.
-
-- Speech → text → structured parsing  
-- Focused on usability for non-English users  
-- Early step toward real-world automation
-
----
-
 ## 🧩 How I think
 
 - I prefer **building over theorizing**
