@@ -19,20 +19,6 @@ I like building things that sit at the intersection of:
 
 ## 🚧 Selected Work / Experiments
 
-### 🔹 Telecom RAG Experiment (Failed, but important)
-Tried building a system to query telecom protocol documentation for debugging.
-
-→ Ran into issues with:
-- fragmented context across documents  
-- unreliable retrieval  
-- LLM hallucinations  
-
-**Takeaway:** Real-world AI systems need more than just plugging in a model.
-
-👉 https://github.com/satyanpadhy/telecom-rag-experiment
-
----
-
 ### 🔹 Codebase Analysis & Visualization Tool
 Built a Python tool to analyze large codebases and map function dependencies (cross-file + recursive).
 
@@ -71,9 +57,7 @@ Opportunities to work on **early-stage products** where:
 ## 📫 Reach out
 
 - GitHub: https://github.com/satyanpadhy  
-- LinkedIn: (add your link)  
-- X / Twitter: (add if you want)
-
----
+- LinkedIn: https://www.linkedin.com/in/satyanpadhy
+- X / Twitter: https://x.com/SatPadhi
 
 *Still building. Still figuring things out.*
